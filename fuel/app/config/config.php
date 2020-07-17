@@ -469,6 +469,8 @@ return array(
 
 		'packages' => array(
 			'parser',
+			'orm',
+			'auth',
 		),
 
 		/**
